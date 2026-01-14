@@ -1,7 +1,6 @@
 # Cassiano Gabriel Jaques 🦉
 
 **Data Analyst | BI | Impact Measurement**  
-Construo dashboards e soluções analíticas de ponta a ponta — da estruturação das bases de dados à visualização e tomada de decisão.
 
 ---
 
@@ -26,16 +25,6 @@ I work end-to-end with data — from organizing raw sources (spreadsheets, CSV f
 I collaborate closely with business and technical stakeholders, translating strategic questions into clear indicators while ensuring **data quality, consistency, and reliability**.
 
 I am currently interested in growing towards **Data Engineering**, focusing on data pipelines, automation, and scalable data architectures.
-
----
-
-## 🧠 O que você vai encontrar aqui
-
-- 📊 Dashboards focados em tomada de decisão  
-- 🗃️ Estruturação e padronização de bases de dados  
-- 🔄 Processos de ETL/ELT e transformação de dados  
-- 📈 Análises aplicadas a impacto, programas e negócios  
-- 🧩 Exemplos de como dados viram produtos utilizáveis  
 
 ---
 
