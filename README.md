@@ -30,30 +30,30 @@ I am currently interested in growing towards **Data Engineering**, focusing on d
 
 ## 🛠️ Stack de Dados
 
-**Análise & BI**
-- Power BI  
-- Looker Studio  
+### 📊 Análise & BI
+<p align="left">
+  <img src="https://logosmarcas.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Logo.png" width="82" title="Power BI"/>
+  <img src="https://strategicmarketsolutions.com/wp-content/uploads/2024/01/Looker-Studio-Logo.png" width="82" title="Looker Studio"/>
+</p>
 
-**Dados & Processamento**
-- SQL  
-- ETL / ELT  
-- Google Sheets & Excel (avançado)  
-- Python  
+### 🗃️ Dados & Processamento
+<p align="left">
+  <img src="https://www.pikpng.com/pngl/b/108-1082484_mysql-logo-png-logo-de-mysql-png-clipart.png" width="42" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
+  <img src="https://www.pikpng.com/pngl/b/491-4910724_google-sheets-badge-green-belt-icon-clipart.png" width="42" title="Google Sheets"/>
+  <img src="https://www.clipartmax.com/png/small/115-1151036_why-entrepreneurs-should-master-basic-excel-transparent-microsoft-excel-logo.png" width="62" title="Excel"/>
+</p>
 
-**Outros**
-- Estruturação de bases relacionais  
-- Documentação de dados e indicadores  
-- Análise quantitativa e qualitativa  
-
----
+### 🔄 Engenharia de Dados & Modelagem
+<p align="left">
+  <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-Data%20Pipelines-blue?style=for-the-badge" height="28"/>
+</p>
 
 ## 📬 Vamos conversar?
 
-- 📧 **Email:** cassianogabriiel@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/cassianojaquees](https://www.linkedin.com/in/cassianojaquees)
-
-Aberto a trocar ideias sobre dados, BI, impacto e soluções analíticas bem feitas.
-
----
-
-⭐ Se algum projeto te ajudar ou inspirar, fique à vontade para deixar uma estrela.
+<p align="left">
+  📧 <strong>Email:</strong> cassianogabriiel@gmail.com<br><br>
+  <img src="https://www.clipartmax.com/png/small/6-62202_linkedin-logo-copy-linkedin-symbol-for-word.png" width="18" style="vertical-align:middle;"/> 
+  <strong> LinkedIn:</strong> 
+  <a href="https://www.linkedin.com/in/cassianojaquees">linkedin.com/in/cassianojaquees</a>
+</p>
